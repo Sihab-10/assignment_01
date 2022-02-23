@@ -2,12 +2,12 @@ main {
   font-family: Yeseva One;
   font-family: "Comforter", cursive;
   font-family: "Poppins", sans-serif;
-
   width: 1200px;
   margin: 0 auto;
 }
 .container {
   font-size: 40px;
+  margin-top: 100px;
   padding-left: 13px;
   border-left: 4px solid #ff5959;
   border-radius: 5px;
