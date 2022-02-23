@@ -48,7 +48,6 @@ main {
   text-align: center;
   font-size: 40px;
 }
-
 .card-image-sizer img {
   width: 141px;
   height: 141px;
@@ -56,30 +55,20 @@ main {
 .card-image-sizer {
   margin-left: 30px;
   margin-bottom: 90px;
+  display: block;
+  margin-top: 30px;
+  width: 33.33%;
+  padding: 40px;
+  border-radius: 30px;
 }
 .card-01 {
   background-color: #4f9da63d;
-  display: block;
-  margin-top: 30px;
-  width: 33.33%;
-  padding: 40px;
-  border-radius: 30px;
 }
 .card-02 {
   background-color: #ff59594f;
-  display: block;
-  margin-top: 30px;
-  width: 33.33%;
-  padding: 40px;
-  border-radius: 30px;
 }
 .card-03 {
   background-color: #fff4d6;
-  display: block;
-  margin-top: 30px;
-  width: 33.33%;
-  padding: 40px;
-  border-radius: 30px;
 }
 .picture img {
   width: 400px;
