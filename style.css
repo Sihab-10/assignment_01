@@ -1,4 +1,4 @@
-body {
+main {
   font-family: Yeseva One;
   font-family: "Comforter", cursive;
   font-family: "Poppins", sans-serif;
@@ -11,6 +11,10 @@ body {
   padding-left: 13px;
   border-left: 4px solid #ff5959;
   border-radius: 5px;
+  line-height: 1;
+}
+.container h2 {
+  font-family: "Yeseva One", cursive;
 }
 .primary_color {
   color: #333333;
@@ -91,4 +95,23 @@ body {
   font-size: 36px;
   font-weight: 900px;
   line-height: 0.5;
+}
+.picture-ron img {
+  width: 500px;
+  height: 300px;
+}
+.last-section {
+  text-align: center;
+  background-color: black;
+  color: #ffffff;
+  padding: 30px;
+}
+.last-section h3 {
+  font-size: 50px;
+  padding-bottom: 30px;
+  font-family: "Comforter", cursive;
+  font-family: "Lobster", cursive;
+}
+.last-section p {
+  font-size: 18px;
 }
