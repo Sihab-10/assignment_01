@@ -1,0 +1,79 @@
+body {
+  font-family: Yeseva One;
+  font-family: "Comforter", cursive;
+  font-family: "Poppins", sans-serif;
+
+  width: 1200px;
+  margin: 0 auto;
+}
+.container {
+  font-size: 40px;
+  padding-left: 13px;
+  border-left: 4px solid #ff5959;
+  border-radius: 5px;
+}
+.primary_color {
+  color: #333333;
+}
+.secondary_color {
+  color: #ff5959;
+}
+.btn-color a {
+  display: inline-block;
+  background-color: #ff5959;
+  color: white;
+  text-decoration: none;
+  padding: 10px 40px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.yellow_color {
+  color: #ffad5a;
+}
+.flexible {
+  display: flex;
+}
+.image-size img {
+  box-sizing: border-box;
+  width: 400px;
+  height: 500px;
+  margin-left: 150px;
+  margin-bottom: 50px;
+}
+.card-section {
+  text-align: center;
+  font-size: 40px;
+}
+
+.card-image-sizer img {
+  width: 141px;
+  height: 141px;
+}
+.card-image-sizer {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.card-01 {
+  background-color: #4f9da63d;
+  display: block;
+  margin-top: 30px;
+  width: 33.33%;
+  padding: 40px;
+  border-radius: 30px;
+}
+.card-02 {
+  background-color: #ff59594f;
+  display: block;
+  margin-top: 30px;
+  width: 33.33%;
+  padding: 40px;
+  border-radius: 30px;
+}
+.card-03 {
+  background-color: #fff4d6;
+  display: block;
+  margin-top: 30px;
+  width: 33.33%;
+  padding: 40px;
+  border-radius: 30px;
+}
